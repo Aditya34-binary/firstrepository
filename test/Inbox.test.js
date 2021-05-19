@@ -26,7 +26,7 @@ describe('Inbox', () => {
         console.log(inbox);
     });
 });
-
+console.log(inbox);
 
 
 
